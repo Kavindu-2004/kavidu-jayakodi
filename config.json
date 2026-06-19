@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "name": "Anuhas Jayakodi",
+    "username": "Kavindu-2004",
+    "repository": "kavidu-jayakodi",
+    "location": "Sri Lanka",
+    "role": "Software Developer & Undergraduate Student",
+    "email": "anuhasjayakodi@gmail.com",
+    "linkedin": "https://linkedin.com/in/anuhas-jayakodi",
+    "twitter": "https://twitter.com/anuhasjayakodi",
+    "website": ""
+  },
+  "theme": {
+    "primary": "#6366F1",
+    "secondary": "#8B5CF6",
+    "accent": "#06B6D4",
+    "success": "#22C55E",
+    "warning": "#F59E0B",
+    "background": "#0d1117",
+    "surface": "#161b27",
+    "text": "#F8FAFC",
+    "muted": "#6B7280"
+  },
+  "stats": {
+    "github_stats_theme": "tokyonight",
+    "streak_theme": "tokyonight",
+    "trophies_theme": "tokyonight",
+    "activity_graph_theme": "react-dark",
+    "hide_border": true,
+    "count_private": true
+  },
+  "projects": [
+    {
+      "name": "Dolphin Fitness Center Management System",
+      "status": "in-development",
+      "stack": ["React", "Node.js", "MySQL", "Tailwind CSS", "Express.js"],
+      "description": "Comprehensive gym management platform with member tracking, subscription management, and real-time attendance monitoring"
+    },
+    {
+      "name": "Indra Dress Point E-Commerce Platform",
+      "status": "active-development",
+      "stack": ["React", "PHP", "MySQL", "Tailwind CSS", "REST API"],
+      "description": "Modern fashion e-commerce platform with product catalog, cart management, and secure checkout"
+    },
+    {
+      "name": "Advanced POS System",
+      "status": "production-ready",
+      "stack": ["React", "Node.js", "PostgreSQL", "Express.js", "Tailwind CSS"],
+      "description": "Enterprise-grade POS system with real-time inventory management and multi-payment support"
+    },
+    {
+      "name": "Attendance Management System",
+      "status": "completed",
+      "stack": ["React", "PHP", "MySQL", "Flutter", "REST API"],
+      "description": "Smart attendance management system with QR-based check-in and automated reporting"
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS", "JavaScript", "TypeScript"],
+    "backend": ["Node.js", "Express.js", "PHP", "REST APIs"],
+    "database": ["MySQL", "PostgreSQL"],
+    "mobile": ["Flutter", "Android Development"],
+    "tools": ["Git", "GitHub", "VS Code", "Android Studio", "XAMPP"]
+  },
+  "workflows": {
+    "snake_cron": "0 */12 * * *",
+    "readme_update_cron": "0 6 * * *"
+  }
+}
